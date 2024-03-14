@@ -119,7 +119,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
   <li>Select 'Remote Desktop' and allow “domain users” access to remote desktop</li>
 </ol>
 <p>
-<img src="https://github.com/tomie-s/ad-config/assets/59409588/1823be9c-5c1f-4064-a82b-1527696f40ab" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tomie-s/ad-config/assets/59409588/1823be9c-5c1f-4064-a82b-1527696f40ab" height="70%" width="70%" alt="Remote Desktop setup for non-admin users"/>
 </p>
 <br />
 
