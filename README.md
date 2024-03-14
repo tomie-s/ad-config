@@ -39,7 +39,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
       <li>Update its NIC Private IP address from dynamic to static</li>
     </ul>
   </li>
-  <li>Create the second VM to set up is a Client VM (Windows 10)
+  <li>Create the second VM as Client VM (Windows 10)
     <ul>
       <li><b>NOTE: Use the Resource Group and Vnet created for the Domain Controller VM when creating the Client VM.</b></li>
     </ul>
